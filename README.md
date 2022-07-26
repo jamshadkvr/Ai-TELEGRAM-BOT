@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/mkbot1/aibot.git">
+<a href="https://heroku.com/deploy?template=https://github.com/jamshadkvr/Ai-TELEGRAM-BOT.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
